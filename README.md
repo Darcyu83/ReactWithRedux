@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+## It's base for React App
+
+리액트 스터디 베이스 앱 (Redux 적용 테스트 앱)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
